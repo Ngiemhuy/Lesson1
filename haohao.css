@@ -1,0 +1,25 @@
+table, tr, th, td, caption{
+    border: 1px solid greenyellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    padding: 1rem;   
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+title{
+    font-size: 200px;
+    color: lime;
+}
+.h1{font-size: 23px;
+    color: lime;
+}
+.img1{
+    size: 20px;
+    border:7px solid salmon;
+    margin-left: 50px;
+    margin-right: 100px;
+    float: right;
+}
+}
